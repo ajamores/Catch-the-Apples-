@@ -29,4 +29,4 @@ There is a slight delay when resetting the game.
 
 ## Screenshot
 
-![image-(https://i.imgur.com/7nWUNMx.png)
+![image](https://i.imgur.com/7nWUNMx.png)
